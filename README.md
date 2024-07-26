@@ -9,11 +9,8 @@ To run this solution, please make sure the API project is set as the startup pro
 2. **Set the Startup Project**: Right-click on the API project in the Solution Explorer and select "Set as Startup Project."
 
 3. **Build the Solution**: Build the solution to resolve all dependencies.
-   ```bash
-   dotnet build
+   
 4. Run the Solution: Start the API project.
-   ```bash
-   dotnet run
 
 The API should now be running and accessible at https://localhost:7184 (or another port if configured differently).
 
