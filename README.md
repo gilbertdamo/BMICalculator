@@ -24,7 +24,7 @@ This solution is structured into three main layers:
 
 ### **Service Layer**
 - **Description**: Contains the core business logic and service implementations.
-- **Location**: `Caribbean.API` directory.
+- **Location**: `Caribbean.Services` directory.
 
 ### **Test Layer**
 - **Description**: Contains unit tests for the service layer to ensure correctness and reliability.
