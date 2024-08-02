@@ -4,7 +4,6 @@ using Caribbean.Services.Model;
 using Caribbean.Services.Services.Validations;
 using Caribbean.Services.Utilities;
 using System.ComponentModel.DataAnnotations;
-using ValidationResult = Caribbean.Services.Model.ValidationResult;
 
 namespace Caribbean.Services
 {

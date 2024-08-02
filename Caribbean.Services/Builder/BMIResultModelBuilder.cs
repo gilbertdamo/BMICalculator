@@ -8,7 +8,7 @@ namespace Caribbean.Services.Builder
 
         public BMIResultModelBuilder SetBmi(double bmi)
         {
-            _bMIResultModel.Bmi = Math.Round(bmi, 2);
+            _bMIResultModel.Bmi = Math.Round(bmi, 1);
             return this;
         }
 
